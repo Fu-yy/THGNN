@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://1120231440@172.23.10.23:9933/mnt/nfs/data/home/1120231440/.conda/envs/mggnn/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/mnt/nfs/data/home/1120231440/home/fuy/python/THGNN" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://1120231440@172.23.10.23:9933/mnt/nfs/data/home/1120231440/.conda/envs/torchtest3.8/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/mnt/nfs/data/home/1120231440/home/fuy/python/THGNN" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
